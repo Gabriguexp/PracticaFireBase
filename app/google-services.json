@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739479217863",
+    "project_id": "consolas-1c403",
+    "storage_bucket": "consolas-1c403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739479217863:android:8a439564fc7d14cae500e2",
+        "android_client_info": {
+          "package_name": "com.example.practicafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739479217863-p6lb28dhqdtp5lsvr9t7a4ebs8o0mf4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMxb7LtTaqN3-KP0YvglI_1XLggEZXdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739479217863-p6lb28dhqdtp5lsvr9t7a4ebs8o0mf4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
